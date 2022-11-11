@@ -1,2 +1,2 @@
 # examen-segundo-parcial
-codigo java de examen
+codigo java netbeans de examen
